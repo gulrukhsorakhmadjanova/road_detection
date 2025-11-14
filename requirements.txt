@@ -1,0 +1,12 @@
+torch
+segmentation-models-pytorch==0.3.1
+albumentations
+opencv-python
+matplotlib
+tqdm
+geopandas
+shapely
+gdown
+rasterio
+numpy
+pandas
